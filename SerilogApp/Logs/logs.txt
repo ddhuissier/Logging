@@ -1,0 +1,25 @@
+08/25/2021 17:47:06 Application starting Up!
+08/25/2021 17:47:09 Index page: OnGet 
+08/25/2021 17:47:09 HTTP "GET" "/" responded 200 in 378.9184 ms
+08/25/2021 17:47:21 Index page: OnGet 
+08/25/2021 17:47:21 HTTP "GET" "/" responded 200 in 11.7636 ms
+08/25/2021 17:47:26 HTTP "GET" "/Privacy" responded 200 in 14.4880 ms
+08/25/2021 17:47:27 Index page: OnGet 
+08/25/2021 17:47:27 HTTP "GET" "/" responded 200 in 3.3164 ms
+08/25/2021 17:57:45 Application starting Up!
+08/25/2021 17:57:48 Index page: OnGet 
+08/25/2021 17:57:48 HTTP "GET" "/" responded 200 in 270.4406 ms
+08/25/2021 17:57:53 Index page: OnGet 
+08/25/2021 17:57:53 HTTP "GET" "/" responded 200 in 4.2437 ms
+08/25/2021 17:57:54 HTTP "GET" "/Privacy" responded 200 in 15.2412 ms
+08/25/2021 17:57:55 Index page: OnGet 
+08/25/2021 17:57:55 HTTP "GET" "/" responded 200 in 2.7949 ms
+08/25/2021 18:32:35 Application starting Up!
+08/25/2021 18:32:42 Index page: OnGet 
+08/25/2021 18:32:42 HTTP "GET" "/" responded 200 in 603.0392 ms
+08/25/2021 18:32:45 Index page: OnGet 
+08/25/2021 18:32:45 HTTP "GET" "/" responded 200 in 16.6054 ms
+08/25/2021 18:32:46 HTTP "GET" "/Privacy" responded 200 in 24.8646 ms
+08/25/2021 18:32:48 Index page: OnGet 
+08/25/2021 18:32:48 HTTP "GET" "/" responded 200 in 4.5484 ms
+08/25/2021 18:32:48 HTTP "GET" "/Privacy" responded 200 in 2.7315 ms
